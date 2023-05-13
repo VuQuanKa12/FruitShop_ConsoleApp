@@ -1,0 +1,10 @@
+Haopham 
+Order{fruitID=OO12, fruitName=Luu Thai , Quantity=25, Price=25.0}
+Khai 
+Order{fruitID=uu12, fruitName=Du Du, Quantity=1, Price=3.0}
+Hang 
+Order{fruitID=ds12, fruitName=Tao Tau, Quantity=3, Price=9.0}
+Order{fruitID=du11, fruitName=Dua hau, Quantity=6, Price=12.0}
+Vuu 
+Order{fruitID=ds12, fruitName=Tao Tau, Quantity=10, Price=9.0}
+Order{fruitID=du11, fruitName=Dua hau, Quantity=5, Price=12.0}
